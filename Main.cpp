@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "Graph.h"
-#include "Bellmanalg.h"
+#include "BellmanAlg.h"
 
 template<typename T>
 std::string Driver(int(&verticlesStorage)[5], double(&densityStorage)[4], int loops)
